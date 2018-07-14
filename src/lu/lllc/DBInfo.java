@@ -8,8 +8,8 @@ public class DBInfo {
 	static String mySQLdbURL = "jdbc:mysql://" + host + ":" + port + "/"
 			+ DBname;
 
-	static String user = "root";
-	static String password = "root";
+	static String user = "kka";
+	static String password = "kka123!@#";
 	
 	static String driver = "com.mysql.jdbc.Driver";
 
